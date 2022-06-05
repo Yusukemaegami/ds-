@@ -6,4 +6,4 @@ print(dataDelete)
 
 output
 
-![sample](/img/スクリーンショット 2022-06-05 17.36.58.png)
+![sample](/img/result.png)
