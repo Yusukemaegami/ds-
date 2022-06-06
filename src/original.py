@@ -26,6 +26,7 @@ print(dataDelete.plot())
 plt.savefig("original.png")
 print(plt.show())
 
+
 # class main:
 #     def main(self, gender, date=400, degree=7):
 #         n = len(data[gender])
