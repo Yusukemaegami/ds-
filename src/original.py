@@ -23,6 +23,7 @@ print(dataDelete)
 # fig.add_subplot(1, 1, 1)
 
 print(dataDelete.plot())
+plt.savefig("original.png")
 print(plt.show())
 
 # class main:
